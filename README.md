@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AUGEACC35
 - 👀 I’m interested in video games
-- 🌱 I’m currently learning dotnet and SQL
-- 💞️ I’m looking to collaborate on nintendo DS game development
-- 📫 How to reach me --> sweettoothrampage@gmail.com
+- 🌱 Learning GML, C and Assembler
+- 💞️ Game console software developer.
 
 <!---
 AUGEACC35/AUGEACC35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
