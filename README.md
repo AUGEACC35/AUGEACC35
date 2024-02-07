@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AUGEACC35
-- 👀 I’m interested in video games
+- 👀 I’m interested in video games and AI
 - 🌱 Learning GML, C and Assembler
 - 💞️ Game console software developer.
 
